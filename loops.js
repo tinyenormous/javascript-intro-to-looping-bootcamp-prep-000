@@ -20,7 +20,7 @@ function whileLoop(count){
 
 function doWhileLoop(array) {
   if (array.length > 0 && maybeTrue()) {
-    delete array.
+    delete array.pop
   }
 }
 
