@@ -15,4 +15,5 @@ function whileLoop(count){
     console.log(count)
     count--
   }
+  return 'done'
 }
